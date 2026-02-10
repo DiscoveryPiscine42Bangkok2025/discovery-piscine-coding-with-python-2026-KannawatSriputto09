@@ -1,5 +1,5 @@
 """ex02"""
 def main():
     """main"""
-    print("Hello World")
+    print("Hello World$")
 main()

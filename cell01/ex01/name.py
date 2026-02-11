@@ -1,4 +1,4 @@
-"""ex00"""
+"""ex01"""
 def main():
     """main"""
     first_name = "Kannawat"

@@ -1,7 +1,7 @@
 """ex01"""
 def main():
     """main"""
-    array = [1,2,3,4,55,66,77]
+    array = [2, 8, 9, 48, 8, 22, -12, 2]
     print("Original array:", array)
     newarray = []
     for i in array:
